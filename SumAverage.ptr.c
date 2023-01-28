@@ -1,3 +1,4 @@
+// Finding sum and average
 #include<stdio.h>
 int sum(int *a,int *b){
     int sum;
