@@ -1,3 +1,4 @@
+// Program to print even numbers in array
 #include<stdio.h>
 int printeven(int arr[], int n){
     int count=0;
