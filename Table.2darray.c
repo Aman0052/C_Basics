@@ -1,3 +1,4 @@
+// printing table in 2d array
 #include<stdio.h>
 void storetable(int arr[][10],int n, int m,int number){
     for(int i=0;i<m;i++){
