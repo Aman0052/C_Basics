@@ -1,3 +1,4 @@
+// Slicing
 #include<stdio.h>
 void slicing(char arr[],int n ,int m){
     char newstr[100];
