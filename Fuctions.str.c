@@ -1,3 +1,4 @@
+// Count vowels,,check presence of characters,,check number of times of character present in string
 #include<stdio.h>
 int countvowels(char arr[]){
     int count=0;
