@@ -1,3 +1,4 @@
+// Salting in string using function
 #include<stdio.h>
 #include<string.h>
 void salting(char arr[]){
