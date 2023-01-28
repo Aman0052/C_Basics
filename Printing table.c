@@ -1,3 +1,4 @@
+// print table in 1 d array
 #include<stdio.h>
 int main()
 {
